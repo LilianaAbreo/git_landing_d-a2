@@ -57,3 +57,13 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+footer {
+  padding: 2%;
+  color: aqua;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 1rem;
+
+}
